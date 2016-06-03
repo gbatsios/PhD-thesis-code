@@ -3,9 +3,7 @@
 % ability to process more than one files
 % extract from txt file: Peak amplitude, peak frequency, residual of AMARES
 % quantification
-% bottom - code for extracting the data for origin processing/Excel
-% database
- 
+
 % Date: 20130202
 % Revision: 20141017
  
